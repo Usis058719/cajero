@@ -49,7 +49,7 @@
             this.btnprocesar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnprocesar.Location = new System.Drawing.Point(65, 115);
             this.btnprocesar.Name = "btnprocesar";
-            this.btnprocesar.Size = new System.Drawing.Size(118, 34);
+            this.btnprocesar.Size = new System.Drawing.Size(137, 34);
             this.btnprocesar.TabIndex = 0;
             this.btnprocesar.Text = "PROCESAR";
             this.btnprocesar.UseVisualStyleBackColor = true;
